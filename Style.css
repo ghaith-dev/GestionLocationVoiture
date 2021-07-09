@@ -1,0 +1,57 @@
+body{
+	background-color:DarkCyan;
+}
+#form1{
+	position:absolute;
+	left:30%;
+	top:30%;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+#div1{
+	width:200px;
+	height:150px;
+	border-color:black;
+	
+
+	border-width:2px;}
+	table{
+		margin-top:50px;
+		margin-left:105px;
+		
+	}
+	input{
+		margin-top:10px;
+		 width:250px; 
+		 height:30px; 
+		 
+		
+	}
+	#idbtn{
+		margin-left:40px;
+		width:150px;
+		height:31px;
+		font-style:bold;
+		font-size:13pt;
+		border-radius:5px;
+		border-style:inside;
+		border:1px;
+		
+		background-color:SpringGreen;
+		
+	}
+	#field{
+		
+		width:500px;
+		height:250px;
+		border-radius:3px;
+		border-color:SpringGreen;
+		
+	}
